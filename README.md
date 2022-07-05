@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @kanaisteve
 - 👀 I’m interested in finance, technology and agriculture.
-- 🌱 I’m currently learning Python Programming Language with its framework Django and PHP Framework Laravel and Symfony
+- 🌱 I’m currently acquiring more knowlenge on Python with its framework Django and Mobile App development in Flutter and iOS.
+- 🌱 My strengths are backend development in PHP and its framework (Laravel & Symfony) and frontend development with Bootstrap, Tailwind and JavaScript.
 - 💞️ I’m looking to collaborate on projects that involve developing APIs mearnt to simply financial technology.
 - 📫 How to reach me on my email address: kanaistevew@gmail.com
 
